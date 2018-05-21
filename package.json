@@ -10,6 +10,11 @@
   },
   "author": "",
   "license": "ISC",
+  "homepage": "https://github.com/mikolodziejczyk/mytestmodule",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikolodziejczyk/mytestmodule.git"
+  },
   "dependencies": {
     "@types/escape-html": "0.0.20",
     "escape-html": "^1.0.3",
